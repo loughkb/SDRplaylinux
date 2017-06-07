@@ -7,9 +7,8 @@
 
 apt-get install git build-essential automake cmake g++ swig
 apt-get install libgtk2.0-dev libpulse-dev libpython-dev python-numpy
-#the next 2 lines may be needed on debian, remove the # if so.
-# apt-get install mesa-utils libeglw1-mesa libglw1-mesa-dev
-# apt-get install freeglut3-dev freeglut3
+apt-get install mesa-utils libeglw1-mesa libglw1-mesa-dev
+apt-get install freeglut3-dev freeglut3
 
 # Now we'll git the projects we need
 
